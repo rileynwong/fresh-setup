@@ -27,5 +27,6 @@ Setting up a fresh computer.
 - [Copyclip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) - Clipbord manager
 
 ## 
+- [brew](https://brew.sh)
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [zsh](https://ohmyz.sh/#install) 
