@@ -17,6 +17,7 @@ Setting up a fresh computer.
         activate
       end tell
       ```
+    - Script Editor: File > Export As > `New Safari Window`, Where: Applications, File Format: Application 
 
  
 - Dock: [Add spacers](https://www.macrumors.com/how-to/group-app-icons-macos-dock/)
