@@ -9,6 +9,15 @@ Setting up a fresh computer.
     - Keyboard > Keyboard Shortcuts > Modifier Keys
 - Applescript: New window
     - [new-window.scpt](https://github.com/rileynwong/dotfiles-old/blob/master/chrome-new-window.scpt)
+    -
+      ```
+      # New Safari Window
+      tell application "Safari"
+        make new document
+        activate
+      end tell
+      ```
+
  
 - Dock: [Add spacers](https://www.macrumors.com/how-to/group-app-icons-macos-dock/)
 
