@@ -2,7 +2,7 @@
 Setting up a fresh computer.
 
 ## Mac
-- Trackpad: tracking speed, tap to click
+- Trackpad: tracking speed, tap to click, app expose
 - 3 finger drag: Accessibility > Pointer Control > Trackpad Options
 
 - Remap `caps lock` to `esc`
