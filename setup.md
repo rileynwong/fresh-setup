@@ -25,6 +25,7 @@ Setting up a fresh computer.
 ## Download
 - [iTerm2](https://iterm2.com) - Terminal alternative 
 - [Copyclip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) - Clipbord manager
+- [Alfred](https://www.alfredapp.com) - Spotlight alternative 
 
 ## 
 - [brew](https://brew.sh)
